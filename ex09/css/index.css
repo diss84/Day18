@@ -1,0 +1,59 @@
+#branding {
+    color: orangered;
+    text-align: center;
+}
+.current {
+    list-style-position: inside;
+    display: inline-flex;
+    color: white;
+    text-align: center;
+}
+#highlight {
+    display: flex;
+    color: orangered;
+    nav-left: current;
+    
+}
+#showcase {
+    background-repeat: no-repeat;
+    background:url(/ex09/img/gigi-logo.png);
+    background-size: 100%;
+    margin: auto;
+    text-align: center;
+    width: 100%;
+    height: max-content;
+
+    
+    
+}
+
+.box {
+    display: inline-flex;
+    list-style-position: inside;
+    float: left;  
+}
+.box h1 {
+    text-align: end;
+    color: cornflowerblue;
+}
+
+#boxes {
+inset-inline: 1;
+display: table-row;
+padding-right: 1;
+}
+footer {
+    bottom: auto;
+    padding-bottom: 1;
+}  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
